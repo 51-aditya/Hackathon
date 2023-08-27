@@ -9,7 +9,7 @@ This repository contains all the codes and files that were worked upon during th
 
 1. Clone the repository or download the zip file.
 2. Create a virtual enviornment and activate it. (optional)
-3. Install the dependicies using 'pip install -r requirements.txt'
+3. Install the dependicies using `pip install -r requirements.txt`
 4. Run the app using `streamlit run home.py`
    
 ## Project description
